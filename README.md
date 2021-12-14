@@ -6,7 +6,7 @@ It's my pleasure to create and market free stuff...
 
 ### Why?
 
-Because it's cool to give back to the community, we all benefit from many open-source projects on a daily basis, and my way to be grateful for all this is to strive to be more than a consumer. 
+Because it's cool to give back to the community. We all benefit from many open-source projects on a daily basis, and my way to be grateful for all this is to strive to be more than a consumer. 
 
 Moreover, it's my hobby to create all kinds of things - content, software, websites, etc. - and I do it for pleasure, so it makes sense to me to give away a large part of my creations. Yeah, some of them I sell, but life just can't be all about money, or I don't want it to be that way. 
 
@@ -14,9 +14,9 @@ Also, I like to create web assets that generate success (or miserably fail fast)
 
 ### From a marketing standpoint...
 
-It's essential for me my projects, websites, and other assets be planned out for conversions from the beginning. I like to write sales copy, and I like to run my ads, so I have some understating of specialties like copywriting, advertising, and online marketing.
+It's essential for me my projects, websites, and other assets to be planned out for conversions from the beginning. I like to write sales copy, and I like to run my ads, so I have some understanding of specialties like copywriting, advertising, and online marketing.
 
-All this helps me to have a clear vision for the details as well as the Big Picture.
+All this helps me have a clear vision for the details and the Big Picture.
 
 My passion for digital marketing has been with me for a decade, and it drives me to always look out for opportunities to apply my knowledge and skills.
 
