@@ -47,6 +47,7 @@ That's how far my craziness goes…
 So I have my blog, where I practice my crazy passion.
 
 Learn more on [BuhalBu.com](https://buhalbu.com/blog/)
+Learn more on [Experts.pub](https://experts.pub)
 
 
 <!--
