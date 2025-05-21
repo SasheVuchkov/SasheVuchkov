@@ -10,11 +10,6 @@ Here's what some of my clients wrote:
 
 👍 "In a short space of time, Alex has already made a big contribution to our project. He is a highly knowledgeable developer -- attentive to detail, patient, clear in his communication, and friendly to work with. He carefully examines problems and comes up with effective ideas to resolve them. We're grateful for his expertise, his insights, and the standards of excellence that he strives for."
 
-### Some Stats
-
-[![Sashe Vuchkovs's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashevuchkov)](https://github.com/sashevuchkov/readme.md)
-
-
 Of course, JavaScript / TypeScript and React are only some of the technologies involved in your project. I can list others like:
 
 ### Backend:
@@ -101,3 +96,12 @@ It may be worth testing the waters if you like what you're reading. I'm always o
 So go on...
 
 Click the Message button and let me know what you want me to do for you.
+
+
+Some projects:
+
+[BuhalBu.com](https://buhalbu.com)
+[ContentDev.com](https://contentdev.com)
+[Experts.pub](https://experts.pub)
+[SgotvenoE.com](https://sgotvenoe.com)
+[SasheVuchkov.com](https://sashevuchkov.com)
