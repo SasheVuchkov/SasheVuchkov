@@ -101,7 +101,7 @@ Click the Message button and let me know what you want me to do for you.
 Some projects:
 
 [BuhalBu.com](https://buhalbu.com)
-[ContentDev.com](https://contentdev.com)
+[ContentDevs.com](https://contentdevs.com)
 [Experts.pub](https://experts.pub)
 [SgotvenoE.com](https://sgotvenoe.com)
 [SasheVuchkov.com](https://sashevuchkov.com)
