@@ -1,66 +1,103 @@
 ## Hi there 👋
 
-My name is Sashe Vuchkov, and I'm a web developer with a strong interest in online marketing.
+I'm Aleksandar Vuchkov (a.k.a Sashe Vuchkov) from Bulgaria, a full-stack developer (7+ years of experience) who creates well-coded and performant web apps using JavaScript / TypeScript and React.
 
-It's my pleasure to create and market free stuff...
+I strive to fully understand my clients' unique needs and absorb their visionary ideas. Once I immerse myself in your project, you will have a trusted person who can make your dreams a reality.
 
-### Why?
+Here's what some of my clients wrote:
 
-Because it's cool to give back to the community. We all benefit from many open-source projects on a daily basis, and my way to be grateful for all this is to strive to be more than a consumer. 
+👍 "Alex is a fantastic full-stack developer whose expert knowledge of React, TypeScript, and Next.js has been very valuable during the implementation of our project. Alex is extremely communicative. He takes ownership of his work. He shares great ideas that tangibly help to improve our product every week that he works on it. He pays attention to details, so there's typically very little wasted time or effort. And he is eager to learn when he is confronted with something new. In short, Alex brings a combination of technical expertise, proactive communication, and a deep commitment to excellence -- we're fortunate to be working with him!"
 
-Moreover, it's my hobby to create all kinds of things - content, software, websites, etc. - and I do it for pleasure, so it makes sense to me to give away a large part of my creations. Yeah, some of them I sell, but life just can't be all about money, or I don't want it to be that way. 
+👍 "In a short space of time, Alex has already made a big contribution to our project. He is a highly knowledgeable developer -- attentive to detail, patient, clear in his communication, and friendly to work with. He carefully examines problems and comes up with effective ideas to resolve them. We're grateful for his expertise, his insights, and the standards of excellence that he strives for."
 
-Also, I like to create web assets that generate success (or miserably fail fast) as soon as they are online. I think it's painful to wait weeks or months to find out if a business idea or a product has potential, so I always strive to get "the numbers" fast.
+### Some Stats
 
-### From a marketing standpoint...
-
-It's essential for me my projects, websites, and other assets to be planned out for conversions from the beginning. I like to write sales copy, and I like to run my ads, so I have some understanding of specialties like copywriting, advertising, and online marketing.
-
-All this helps me have a clear vision for the details and the Big Picture.
-
-My passion for digital marketing has been with me for a decade, and it drives me to always look out for opportunities to apply my knowledge and skills.
-
-### From a web development standpoint...
-
-I've been a "web resident" since the year 2000 with a coding experience dating back to 2006, and I love almost everything related to the World Wide Web. I adore most web technologies, and every minute spent writing code is sweet honey for me.
-
-My code is clean and looks beautiful on the screen. Or at least I think so... Of course, there is always room for improvement, but I'm not a perfectionist, so I produce "good enough" stuff that brings results.
-
-And by "good enough," I mean well-designed, well-structured, and well-tested software...
-
-But nothing "genius."
-
-My strongest advantage is my business-oriented style of development. Everything I do must align with the business goals, so there is no "code fluff," "bloat' or whatever that looks or sounds good but has ZERO contribution to the bottom line.
-
-Everything should serve the DEFINITE PURPOSE.
-
-### My other activities
-
-I'm passionate not only about writing software.
-
-Actually, I'm into writing itself.
-
-It's weird, you know, but if I were immortal, I would spend most of the time writing and learning all possible genres, formats, and types of writing.
-
-That's how far my craziness goes…
-
-So I have my blog, where I practice my crazy passion.
-
-Learn more on [BuhalBu.com](https://buhalbu.com/blog/)
-Learn more on [Experts.pub](https://experts.pub)
+[![Sashe Vuchkovs's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashevuchkov)](https://github.com/sashevuchkov/readme.md)
 
 
-<!--
-**SasheVuchkov/SasheVuchkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Of course, JavaScript / TypeScript and React are only some of the technologies involved in your project. I can list others like:
 
-Here are some ideas to get you started:
+### Backend:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Node.js / Express.js;
+* Next.js / Remix;
+* API Integrations;
+* REST APIs;
+* Third-party integrations;
+* PHP / Laravel.
+
+### Front-end:
+
+* HTML5 / CSS3;
+* Bootstrap 5 / Tailwind CSS;
+* React.js / jQuery / Vanilla JavaScript;
+* Chrome Extensions;
+
+### Database:
+
+* SQL / NoSQL;
+* PostgreSQL;
+* MySQL / MariaDB;
+* MongoDB;
+* CouchDB;
+
+### Google Cloud Platform (GCP):
+
+* Cloud Run
+* Cloud Functions
+* Cloud Compute Engine
+* Cloud SQL
+
+### Content Management Systems
+
+* Strapi CMS;
+* WordPress;
+* Basically anything (I learn fast).
+
+### Other:
+
+* Git / Github;
+* Parcel / Vite;
+* Vercel / Heroku;
+* Digital Ocean;
+* Open AI / AI APIs;
+
+### Can I deliver on my promises?
+
+Well, I believe I can. I have been a full stack developer since 2018, and some of the projects I've worked on include:
+
+* Profitable websites;
+* Headless CMS integrations;
+* Support chat;
+* Ticket system;
+* Hosting administration panel;
+* Single-page apps;
+* Browser extensions;
+* Different utility scripts;
+* API integrations;
+* Third-party services integrations;
+* Responsive web applications;
+* From scratch SAAS products;
+* Minimal viable products (MVP);
+* and more.
+
+I worked for a global hosting company for two years. There, I learned many valuable lessons about high-traffic applications (millions of users monthly), scalability, security, processes, teamwork, and collaboration with web designers, DevOps specialists, marketing professionals, and other stakeholders.
+
+That means I have some knowledge and know-how I can transfer to your project, too.
+
+I always strive to keep the project scope on track and eliminate anything that isn't mission-critical and is merely "nice to have." It may seem that I'm too strict about this, but it saves my clients time and money. Even more important, it makes their apps better and lighter, consuming fewer server or browser resources, thus lowering costs.
+
+My oldest client (5+ years), who doesn't have a profile here, says:
+
+👍 "I trust Aleksandar completely with the online presence of my business, and I am grateful to him for the dedication and professionalism he demonstrates in working with me. I would gladly recommend his services."
+
+~ LUBOMIR DINCHEV
+Bulgarian Entrepreneur
+
+Anyway...
+
+It may be worth testing the waters if you like what you're reading. I'm always open to taking on small gigs that showcase my coding skills and demonstrate my ability to work effectively with clients.
+
+So go on...
+
+Click the Message button and let me know what you want me to do for you.
